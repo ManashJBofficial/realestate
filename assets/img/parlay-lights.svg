@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="427.323" height="124.099" viewBox="0 0 427.323 124.099">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00ffa2"/>
+      <stop offset="1" stop-color="#60efff"/>
+    </linearGradient>
+  </defs>
+  <g id="OBJECTS" transform="translate(-334.411 -33.117)">
+    <g id="Group_25" data-name="Group 25">
+      <g id="Group_23" data-name="Group 23" transform="translate(184 -87.427)">
+        <text id="PARLAY" transform="translate(417.735 193.643)" fill="#fff" font-size="60" font-family="Arial-Black, Arial" font-weight="800" letter-spacing="0.2em"><tspan x="-159.917" y="0">PARLAY</tspan></text>
+        <text id="INDIA" transform="translate(367.235 201.643)" fill="#fff" font-size="25" font-family="Calibri-Bold, Calibri" font-weight="700" letter-spacing="0.32em"><tspan x="-46.353" y="24">INDIA</tspan></text>
+      </g>
+      <g id="Group_26" data-name="Group 26" style="isolation: isolate">
+        <path id="Path_14" data-name="Path 14" d="M334.411,157.216h0a30.3,30.3,0,0,0,30.3-30.3v-93.8h0a30.3,30.3,0,0,0-30.3,30.3Z" fill="url(#linear-gradient)"/>
+        <g id="Group_24" data-name="Group 24">
+          <path id="Path_16" data-name="Path 16" d="M0,0H6.451V72.477H0Z" transform="translate(371.772 33.117)" fill="url(#linear-gradient)"/>
+          <path id="Path_15" data-name="Path 15" d="M385.28,33.274v72.163a36.236,36.236,0,0,0,32.929-36.081h0A36.237,36.237,0,0,0,385.28,33.274Z" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

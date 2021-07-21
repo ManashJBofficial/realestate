@@ -1,0 +1,6 @@
+User-agent: *
+Disallow:  /myadmin/
+Disallow:  /vendor/
+Disallow:  /config.php
+Disallow:  /homes/php/
+Disallow:  /PHPMailer

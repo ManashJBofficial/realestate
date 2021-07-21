@@ -1,0 +1,22 @@
+RewriteEngine on 
+RewriteCond %{REQUEST_FILENAME}\.php -f 
+RewriteRule ^(.*)$ $1.php
+RewriteCond %{REQUEST_FILENAME}\.html -f 
+RewriteRule ^(.*)$ $1.html
+
+DirectoryIndex index.php
+
+ErrorDocument 404 /realestate/error/404.php
+ErrorDocument 500 /realestate/error/500.php
+
+
+RewriteCond %{HTTP_HOST} ^www\.(.*)$ [NC]
+RewriteRule ^(.*)$ http://%1%{REQUEST_URI} [R=301,QSA,NC,L]
+
+
+# Disable the server signature
+ServerSignature Off
+
+# Disable directory browsing
+Options All -Indexes
+

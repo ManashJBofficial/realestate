@@ -1,0 +1,7 @@
+{
+    "require": {
+        "ramsey/uuid": "^4.1",
+        "google/apiclient": "^2.0",
+        "phpmailer/phpmailer": "^6.4"
+    }
+}
